@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2d2485458c98c19408d9d5a4353c8d6c
+timeCreated: 1458096822
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mazePrefab: {fileID: 11486188, guid: 2b6d86568b8451e44a7e7453774dbec6, type: 2}
+  - playerPrefab: {fileID: 11462454, guid: cb75635c2e0a6084bb6ff47f72937acc, type: 2}
+  - mazeInstance: {instanceID: 0}
+  - playerInstance: {instanceID: 0}
+  - Key1: {instanceID: 0}
+  - Key2: {instanceID: 0}
+  - Key3: {instanceID: 0}
+  - Map: {instanceID: 0}
+  - playerUse: {instanceID: 0}
+  - goldCell: {fileID: 21300000, guid: be8d034eb6144a94a87e10e5569cb91a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
